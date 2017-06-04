@@ -1,0 +1,208 @@
+From: <Enregistré par Microsoft Internet Explorer 5>
+Subject: 
+Date: Tue, 24 Feb 2004 13:49:44 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.radiospares.fr/session_timeout.htm
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<SCRIPT language=3Djavascript>=0A=
+var s =3D new String(self.location.hostname);=0A=
+var m =3D 'uk';=0A=
+=0A=
+//if (s.match('\.fr')) m =3D 'f1';=0A=
+//if (s.match('\.de')) m =3D 'de';=0A=
+//if (s.match('\.it')) m =3D 'it';=0A=
+//if (s.match('\.at')) m =3D 'at';=0A=
+//if (s.match('\.es')) m =3D 'es';=0A=
+//if (s.match('\.dk')) m =3D 'dk';=0A=
+//if (s.match('\.nl')) m =3D 'nl';=0A=
+//if (s.match('\.be')) m =3D 'be';=0A=
+if (s.match('www1.radiospares.fr')) m =3D 'f1';=0A=
+if (s.match('www.radiospares.fr')) m =3D 'f1';=0A=
+if (s.match('www.radiospares.com')) m =3D 'f1';=0A=
+if (s.match('www1.rs-components.de')) m =3D 'de';=0A=
+if (s.match('www.rs-components.de')) m =3D 'de';=0A=
+if (s.match('www.rswww.de')) m =3D 'de';=0A=
+if (s.match('www.rscomp-net.de')) m =3D 'de';=0A=
+if (s.match('www.rs-www.de')) m =3D 'de';=0A=
+if (s.match('www.rskatalog.de')) m =3D 'de';=0A=
+if (s.match('www.rs-katalog.de')) m =3D 'de';=0A=
+if (s.match('www.rsonline.de')) m =3D 'de';=0A=
+if (s.match('rsonline.de')) m =3D 'de';=0A=
+if (s.match('www.my-rs.de')) m =3D 'de';=0A=
+if (s.match('www.myrs.de')) m =3D 'de';=0A=
+if (s.match('www.my-rs.com')) m =3D 'de';=0A=
+if (s.match('www.rs-b2b.de')) m =3D 'de';=0A=
+if (s.match('www.rs-smartshop.de')) m =3D 'de';=0A=
+if (s.match('www.rs-easyshop.de')) m =3D 'de';=0A=
+if (s.match('www.rs-einkauf.de')) m =3D 'de';=0A=
+if (s.match('www.rs-profikauf.de')) m =3D 'de';=0A=
+if (s.match('www.rs-bestbuy.de')) m =3D 'de';=0A=
+if (s.match('www.rs-easytrade.de')) m =3D 'de';=0A=
+if (s.match('www.rs-profitrade.de')) m =3D 'de';=0A=
+if (s.match('www.rs-netshop.de')) m =3D 'de';=0A=
+if (s.match('www.rs-easyorder.de')) m =3D 'de';=0A=
+if (s.match('www.rs-4u.de')) m =3D 'de';=0A=
+if (s.match('www.rs-store.de')) m =3D 'de';=0A=
+if (s.match('www.rs-order.de')) m =3D 'de';=0A=
+if (s.match('www.rsshop.de')) m =3D 'de';=0A=
+if (s.match('www.rsstore.de')) m =3D 'de';=0A=
+if (s.match('www.rswww.de')) m =3D 'de';=0A=
+if (s.match('www.rseinkauf.de')) m =3D 'de';=0A=
+if (s.match('www.rswww.com')) m =3D 'uk';=0A=
+if (s.match('www1.rswww.com')) m =3D 'uk';=0A=
+if (s.match('supplierlink.rswww.com')) m =3D 'uk';=0A=
+if (s.match('cdlink.rswww.com')) m =3D 'uk';=0A=
+if (s.match('rswww.com')) m =3D 'uk';=0A=
+if (s.match('electrospeed.com')) m =3D 'uk';=0A=
+if (s.match('www1.rs-components.it')) m =3D 'it';=0A=
+if (s.match('www.rs-components.it')) m =3D 'it';=0A=
+if (s.match('www.rscomponents.it')) m =3D 'it';=0A=
+if (s.match('www.rs-component.it')) m =3D 'it';=0A=
+if (s.match('www.rscomponent.it')) m =3D 'it';=0A=
+if (s.match('www1.rs-components.at')) m =3D 'at';=0A=
+if (s.match('www.rs-components.at')) m =3D 'at';=0A=
+if (s.match('www.rswww.at')) m =3D 'at';=0A=
+if (s.match('rs-components.at')) m =3D 'at';=0A=
+if (s.match('rswww.at')) m =3D 'at';=0A=
+if (s.match('www1.rs-components.be')) m =3D 'be';=0A=
+if (s.match('www.rs-components.be')) m =3D 'be';=0A=
+if (s.match('www.rscomponents.be')) m =3D 'be';=0A=
+if (s.match('www.rs-radio.dk')) m =3D 'dk';=0A=
+if (s.match('www.rs-radioparts.dk')) m =3D 'dk';=0A=
+if (s.match('www.rsradioparts.dk')) m =3D 'dk';=0A=
+if (s.match('www.rs-radio-parts.dk')) m =3D 'dk'=0A=
+if (s.match('www.1-stop.dk')) m =3D 'dk'=0A=
+if (s.match('www.rs-c.dk')) m =3D 'dk';=0A=
+if (s.match('www.rs-components.dk')) m =3D 'dk';=0A=
+if (s.match('www1.rs-components.dk')) m =3D 'dk';=0A=
+if (s.match('rsonline.dk')) m =3D 'dk';=0A=
+if (s.match('www.rs-components.nl')) m =3D 'nl';=0A=
+if (s.match('www.rscomponents.nl')) m =3D 'nl';=0A=
+if (s.match('www1.rs-components.nl')) m =3D 'nl';=0A=
+if (s.match('www.radionics.ie')) m =3D 'ie';=0A=
+if (s.match('www1.radionics.ie')) m =3D 'ie';=0A=
+if (s.match('www.amidata.es')) m =3D 'es;';=0A=
+if (s.match('www.rs-componentes.com')) m =3D 'es';=0A=
+if (s.match('www.rs-amidata.com')) m =3D 'es';=0A=
+if (s.match('www1.amidata.es')) m =3D 'es';=0A=
+if (s.match('rswww.co.jp')) m =3D 'jp';=0A=
+if (s.match('www1.rswww.co.jp')) m =3D 'jp';=0A=
+if (s.match('www.rswww.co.jp')) m =3D 'jp';=0A=
+if (s.match('www1.rs-components.co.jp')) m =3D 'jp';=0A=
+if (s.match('www.rs-components.co.jp')) m =3D 'jp';=0A=
+if (s.match('www.rscomponents.co.jp')) m =3D 'jp';=0A=
+if (s.match('www.rs-portugal.com')) m =3D 'pt';=0A=
+if (s.match('www.rsportugal.com')) m =3D 'pt';=0A=
+if (s.match('www.rs-componentspt.com')) m =3D 'pt';=0A=
+if (s.match('www.rs-pt.com')) m =3D 'pt';=0A=
+if (s.match('www.rs-components.no')) m =3D 'no';=0A=
+if (s.match('no.rs-c.dk')) m =3D 'no';=0A=
+if (s.match('www.rs-norge.com')) m =3D 'no';=0A=
+if (s.match('www.rsnorge.com')) m =3D 'no';=0A=
+if (s.match('rsonline.no')) m =3D 'no';=0A=
+if (s.match('no.rs-components.no')) m =3D 'no01';=0A=
+if (s.match('en.rs-components.no')) m =3D 'no02';=0A=
+if (s.match('keyventures.rspakistan.com')) m =3D 'pk01';=0A=
+if (s.match('roseace.rspakistan.com')) m =3D 'pk02';=0A=
+if (s.match('www.rspakistan.com')) m =3D 'pk';=0A=
+if (s.match('euroimpex.rspolska.com')) m =3D 'pl01';=0A=
+if (s.match('infoel.rspolska.com')) m =3D 'pl02';=0A=
+if (s.match('www.rspolska.com')) m =3D 'pl';=0A=
+if (s.match('incoll.rsrussia.com')) m =3D 'ru01';=0A=
+if (s.match('promavto.rsrussia.com')) m =3D 'ru02';=0A=
+if (s.match('yeint.rsrussia.com')) m =3D 'ru03';=0A=
+if (s.match('www.rsrussia.com')) m =3D 'ru';=0A=
+if (s.match('www.rssouthafrica.com')) m =3D 'za';=0A=
+if (s.match('za.rs-c.dk')) m =3D 'za';=0A=
+if (s.match('www.rsfinland.com')) m =3D 'fi';=0A=
+if (s.match('fi.rs-c.dk')) m =3D 'fi';=0A=
+if (s.match('www.rsargentina.com')) m =3D 'ar';=0A=
+if (s.match('www.rsazerbaijan.com')) m =3D 'az';=0A=
+if (s.match('www.rsbosnia.com')) m =3D 'ba';=0A=
+if (s.match('www.rsbrazil.com')) m =3D 'br';=0A=
+if (s.match('www.rschile.com')) m =3D 'cl';=0A=
+if (s.match('www.rscroatia.com')) m =3D 'hr';=0A=
+if (s.match('www.rsczech.com')) m =3D 'cz';=0A=
+if (s.match('www.rsuae.com')) m =3D 'ae';=0A=
+if (s.match('www.rsegypt.com')) m =3D 'eg';=0A=
+if (s.match('www.rsestonia.com')) m =3D 'ee';=0A=
+if (s.match('www.rsgreece.com')) m =3D 'gr';=0A=
+if (s.match('www.rshungary.com')) m =3D 'hu';=0A=
+if (s.match('www.rsiceland.com')) m =3D 'is';=0A=
+if (s.match('www.rsindia.com')) m =3D 'in';=0A=
+if (s.match('www.rsisrael.com')) m =3D 'il';=0A=
+if (s.match('www.rsjordan.com')) m =3D 'jo';=0A=
+if (s.match('www.rskuwait.com')) m =3D 'kw';=0A=
+if (s.match('www.rslatvia.com')) m =3D 'lv';=0A=
+if (s.match('www.rslebanon.com')) m =3D 'lb';=0A=
+if (s.match('www.rslithuania.com')) m =3D 'lt';=0A=
+if (s.match('www.rsmalta.com')) m =3D 'mt';=0A=
+if (s.match('www.rsoman.com')) m =3D 'om';=0A=
+if (s.match('www.rsqatar.com')) m =3D 'qa';=0A=
+if (s.match('www.rsromania.com')) m =3D 'ro';=0A=
+if (s.match('www.rssaudi.com')) m =3D 'sa';=0A=
+if (s.match('www.rsslovakia.com')) m =3D 'sk';=0A=
+if (s.match('www.rstunisia.com')) m =3D 'tn';=0A=
+if (s.match('www.rsturkey.com')) m =3D 'tr';=0A=
+if (s.match('www.rsyugoslavia.com')) m =3D 'yu';=0A=
+if (s.match('www.rsexport.com')) m =3D 'gx';=0A=
+if (s.match('gx.rs-c.dk')) m =3D 'gx';=0A=
+if (s.match('www.rssverige.com')) m =3D 'se';=0A=
+if (s.match('se.rs-c.dk')) m =3D 'se';=0A=
+if (s.match('rsonline.se')) m =3D 'se';=0A=
+=0A=
+var storeURL;=0A=
+var storeName;=0A=
+=0A=
+if (s.match('secure'))=0A=
+{=0A=
+  var allCookies =3D document.cookie;=0A=
+  var pos =3D allCookies.indexOf("storeAttribute");=0A=
+=0A=
+  if (pos !=3D -1)=0A=
+  {=0A=
+    var start =3D pos + 14;=0A=
+    var end =3D allCookies.indexOf(";", start);=0A=
+    if (end =3D=3D -1) end =3D allCookies.length;=0A=
+    var value =3D allCookies.substring(start,end);=0A=
+    value =3D unescape(value);=0A=
+    pos =3D allCookies.indexOf("storeName:");=0A=
+    start =3D pos + 10;=0A=
+    end =3D allCookies.indexOf("&",start);=0A=
+    if (end =3D=3D -1) end =3D allCookies.length;=0A=
+    storeName =3D allCookies.substring(start,end);=0A=
+    storeName =3D unescape(storeName);=0A=
+    pos =3D allCookies.indexOf("storeURL:");=0A=
+    start =3D pos + 9;=0A=
+    end =3D allCookies.indexOf(";",start);=0A=
+    if (end =3D=3D -1) end =3D allCookies.length;=0A=
+    storeURL =3D allCookies.substring(start,end);=0A=
+    storeURL =3D unescape(storeURL);=0A=
+  }=0A=
+}=0A=
+if (!storeURL || !storeName)=0A=
+{=0A=
+    storeURL =3D s;=0A=
+    storeName =3D m;=0A=
+}=0A=
+=0A=
+if (window.opener) {=0A=
+   window.opener.location.href =3D 'http://' + storeURL + '/' + =
+storeName + '/session_timeout.htm';=0A=
+   window.close();=0A=
+} else {=0A=
+   self.location.href =3D 'http://' + storeURL + '/' + storeName + =
+'/session_timeout.htm';=0A=
+}=0A=
+</SCRIPT>
+
+<META content=3D"MSHTML 6.00.2800.1400" name=3DGENERATOR></HEAD>
+<BODY></BODY></HTML>
